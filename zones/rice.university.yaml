@@ -1,0 +1,7 @@
+"":
+  type: A
+  value: 185.199.108.153
+
+www:
+  type: CNAME
+  value: rice.university.
