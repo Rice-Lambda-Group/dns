@@ -2,6 +2,10 @@
   type: A
   value: 185.199.108.153
 
+archive:
+  type: A
+  value: 143.215.185.80
+
 www:
   type: CNAME
   value: rice.university.
